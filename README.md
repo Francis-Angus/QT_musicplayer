@@ -48,8 +48,3 @@
 <img src="https://i.imgur.com/5fHlSpr.gif" width="800" height="500"></img>
 
 
-<h3>新增的目錄會永久存在</h3>
-<img src="https://i.imgur.com/DiJkcQN.gif" width="800" height="500"></img>
-
-
-
